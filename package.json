@@ -1,0 +1,14 @@
+{
+  "name": "v-ui",
+  "author": "zto",
+  "version": "0.0.1",
+  "description": "v-ui 基础布局",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
